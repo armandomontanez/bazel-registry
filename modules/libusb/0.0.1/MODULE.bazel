@@ -1,0 +1,9 @@
+module(name = "libusb", version = "0.0.1")
+
+bazel_dep(name = "platforms", version = "0.0.8")
+
+# If your project has multiple dependencies that require conflicting versions
+# of libusb, you'll need to specify this in your project's MODULE.bazel file.
+libusb = use_extension("@libusb//:extensions.bzl", "libusb")
+libusb.source_release(version="v1.0.27")
+use_repo(libusb, "libusb_sources")
