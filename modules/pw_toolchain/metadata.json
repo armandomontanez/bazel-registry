@@ -1,0 +1,12 @@
+{
+    "homepage": "https://pigweed.dev",
+    "maintainers": [
+        {
+            "github": "armandomontanez",
+            "name": "Armando Montanez"
+        }
+    ],
+    "versions": [
+        "0.1"
+    ]
+}

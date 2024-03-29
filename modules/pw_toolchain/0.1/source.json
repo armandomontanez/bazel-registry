@@ -1,0 +1,5 @@
+{
+    "integrity": "sha256-XkWp2tO4ZERgXboQbKkgPxx2w9gWLmQvWvsHJDQb0EE=",
+    "strip_prefix": "pigweed-385a1e4a5585ba228084eac28d21f719d3f38ffd/pw_toolchain_bazel",
+    "url": "https://github.com/google/pigweed/archive/385a1e4a5585ba228084eac28d21f719d3f38ffd.zip"
+}
