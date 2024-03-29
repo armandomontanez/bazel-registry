@@ -1,0 +1,12 @@
+{
+    "homepage": "https://github.com/armandomontanez/picotool",
+    "maintainers": [
+        {
+            "github": "armandomontanez",
+            "name": "Armando Montanez"
+        }
+    ],
+    "versions": [
+        "0.0.1"
+    ]
+}
